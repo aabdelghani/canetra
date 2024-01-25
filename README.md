@@ -52,7 +52,7 @@ For detailed documentation, refer to the `docs` directory within the repository.
 Contributions to CANetra are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for details on submitting pull requests and reporting issues.
 
 ## License
-This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
+This project is licensed under the [GPL-3.0](LICENSE) - see the LICENSE file for details.
 
 ## Support
 For support and queries, please open an issue in the GitHub repository or contact [Support Email].
