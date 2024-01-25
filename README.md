@@ -20,25 +20,29 @@ CANetra is a sophisticated tool designed for debugging and monitoring multi-node
 
 ### Installation
 1. **Clone the repository**:
-git clone https://github.com/your-username/CANetra.git
-
+git clone https://github.com/aabdelghani/CANetra.git
 2. **Setup the Development Environment**:
 - Install STM32CubeIDE and configure it for the Nucleo-F303RE board.
-- Set up the necessary drivers for the CAN transceiver module.
+- Install Qt 5.x and set up the development environment for GUI development.
+- Set up the necessary drivers for the SN65HVD230 CAN transceiver module.
 
 3. **Load and Configure the Firmware**:
-- Open the project in STM32CubeIDE.
+- Open the firmware project in STM32CubeIDE.
 - Build and flash the firmware to the Nucleo-F303RE board.
 
-4. **Connect the Hardware**:
-- Attach the CAN transceiver to the Nucleo-F303RE.
+4. **Develop the Qt Application**:
+- Open the Qt project in Qt Creator.
+- Compile and build the application.
+
+5. **Connect the Hardware**:
+- Attach the SN65HVD230 CAN transceiver to the Nucleo-F303RE.
 - Ensure proper connections to the CAN network.
 
 ## Usage
-1. Power on the Nucleo-F303RE with the connected CAN module.
-2. Launch the CANetra application on your computer.
+1. Power on the Nucleo-F303RE with the connected SN65HVD230 CAN module.
+2. Launch the CANetra Qt application on your computer.
 3. Configure the connection settings to communicate with the Nucleo board.
-4. Start monitoring the CAN network and use the provided tools for debugging.
+4. Start monitoring the CAN network and use the provided GUI tools for debugging.
 
 ## Documentation
 For detailed documentation, refer to the `docs` directory within the repository.
@@ -53,4 +57,4 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 For support and queries, please open an issue in the GitHub repository or contact [Support Email].
 
 ## Acknowledgements
-Special thanks to the contributors and supporters who have made CANetra possible, especially those in the STM32 development community.
+Special thanks to the contributors and supporters who have made CANetra possible, especially those in the STM32, CAN network, and Qt development communities.
