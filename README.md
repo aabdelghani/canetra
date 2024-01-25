@@ -48,6 +48,40 @@ git clone https://github.com/aabdelghani/CANetra.git
 ## Documentation
 For detailed documentation, refer to the `docs` directory within the repository.
 
+
+## Project Structure
+- `/firmware`: Contains the firmware code for the STM32 Nucleo-F303RE.
+- `/software`: Houses the Qt-based GUI application code.
+- `/docs`: Includes all detailed documentation for the project.
+- `/tests`: Contains test scripts and documentation.
+
+## Getting Started
+For detailed setup instructions and prerequisites, please refer to [Getting Started](docs/GettingStarted.md).
+
+## Using CANetra
+For information on how to use the application, see [User Guide](docs/UserGuide.md). This guide includes screenshots and usage scenarios.
+
+## For Developers
+If you're interested in contributing to the project, please read [Development Guidelines](docs/Development.md) for code structure, style guides, and contribution processes.
+
+## Testing
+Details on testing procedures, test cases, and how to run tests can be found in [Testing Documentation](docs/Testing.md).
+
+## Documentation
+In-depth documentation on various aspects of the project is available in the `/docs` directory. This includes setup, usage, development, and testing guidelines.
+
+## Commit History
+Our Git commit history provides a clear and descriptive record of the project's progression. Each commit message is crafted to convey the changes made effectively.
+
+## Issues and Milestones
+We actively use Issues and Milestones in our GitHub/GitLab repository to manage tasks, track bugs, and plan features. Feel free to contribute by reporting issues or suggesting enhancements.
+
+## Wiki
+For larger and more detailed documentation, visit our [Wiki](link-to-wiki).
+
+## Changelog
+Stay updated with the project's developments by checking our [Changelog](CHANGELOG.md), where we document all changes, improvements, and fixes.
+
 ## Contributing
 Contributions to CANetra are welcome! Please read the [Contributing Guidelines](CONTRIBUTING.md) for details on submitting pull requests and reporting issues.
 
