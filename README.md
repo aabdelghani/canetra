@@ -67,15 +67,6 @@ If you're interested in contributing to the project, please read [Development Gu
 ## Testing
 Details on testing procedures, test cases, and how to run tests can be found in [Testing Documentation](docs/Testing.md).
 
-## Documentation
-In-depth documentation on various aspects of the project is available in the `/docs` directory. This includes setup, usage, development, and testing guidelines.
-
-## Commit History
-Our Git commit history provides a clear and descriptive record of the project's progression. Each commit message is crafted to convey the changes made effectively.
-
-## Issues and Milestones
-We actively use Issues and Milestones in our GitHub/GitLab repository to manage tasks, track bugs, and plan features. Feel free to contribute by reporting issues or suggesting enhancements.
-
 ## Wiki
 For larger and more detailed documentation, visit our [Wiki](link-to-wiki).
 
