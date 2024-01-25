@@ -19,7 +19,7 @@ CANetra is a sophisticated tool designed for debugging and monitoring multi-node
 - Software requirements (e.g., STM32CubeIDE, appropriate drivers)
 
 ### Installation
-1. **Clone the repository**:
+**1. Clone the repository**:
 git clone https://github.com/aabdelghani/CANetra.git
 **2. Setup the Development Environment**:
 - Install STM32CubeIDE and configure it for the Nucleo-F303RE board.
