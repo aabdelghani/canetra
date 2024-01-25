@@ -21,20 +21,20 @@ CANetra is a sophisticated tool designed for debugging and monitoring multi-node
 ### Installation
 1. **Clone the repository**:
 git clone https://github.com/aabdelghani/CANetra.git
-2. **Setup the Development Environment**:
+**2. Setup the Development Environment**:
 - Install STM32CubeIDE and configure it for the Nucleo-F303RE board.
 - Install Qt 5.x and set up the development environment for GUI development.
 - Set up the necessary drivers for the SN65HVD230 CAN transceiver module.
 
-3. **Load and Configure the Firmware**:
+**3. Load and Configure the Firmware**:
 - Open the firmware project in STM32CubeIDE.
 - Build and flash the firmware to the Nucleo-F303RE board.
 
-4. **Develop the Qt Application**:
+**4. Develop the Qt Application**:
 - Open the Qt project in Qt Creator.
 - Compile and build the application.
 
-5. **Connect the Hardware**:
+**5. Connect the Hardware**:
 - Attach the SN65HVD230 CAN transceiver to the Nucleo-F303RE.
 - Ensure proper connections to the CAN network.
 
