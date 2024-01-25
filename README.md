@@ -15,7 +15,7 @@ CANetra is a sophisticated tool designed for debugging and monitoring multi-node
 
 ### Prerequisites
 - STM32 Nucleo-F303RE board
-- CAN transceiver module
+- SN65HVD230 CAN Bus Transceiver Module
 - Software requirements (e.g., STM32CubeIDE, appropriate drivers)
 
 ### Installation
